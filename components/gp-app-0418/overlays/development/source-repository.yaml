@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gp-app-0418-repository
+spec:
+  url: https://github.com/stephanie-cy/gp-app-0418
